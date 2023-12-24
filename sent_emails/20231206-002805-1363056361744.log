@@ -1,0 +1,25 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: Password reset on 127.0.0.1:8000
+From: webmaster@localhost
+To: aintablianhasmig@gmail.com
+Date: Tue, 05 Dec 2023 22:28:05 -0000
+Message-ID: <170181528531.8268.17919923838733058355@DESKTOP-9EOCSRB>
+
+
+You're receiving this email because you requested a password reset for your user account at 127.0.0.1:8000.
+
+Please go to the following page and choose a new password:
+
+http://127.0.0.1:8000/accounts/reset/Mw/byrfyt-09873319a17f4d24831f562d3cb99fd9/
+
+Your username, in case you’ve forgotten: hasmiig
+
+Thanks for using our site!
+
+The 127.0.0.1:8000 team
+
+
+
+-------------------------------------------------------------------------------

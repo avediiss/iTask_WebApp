@@ -1,0 +1,6 @@
+<!-- todo/label_popup.html -->
+<form method="post" id="labelForm">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <button type="submit">Save</button>
+</form>
