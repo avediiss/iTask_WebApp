@@ -1,5 +1,3 @@
-# First
-Login and logout with pre-built templates
+Task Management System using Python and Django.
 
-# Second
-Sign up
+The User can add, edit, delete and view his tasks
